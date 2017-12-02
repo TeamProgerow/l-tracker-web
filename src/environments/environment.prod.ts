@@ -1,11 +1,11 @@
 export const environment = {
   production: true,
   firebase: {
-    apiKey: "AIzaSyBh1-Pfuspa0KUWy9LwUWrZBhfH5LIuCIk",
-    authDomain: "l-tracker-65ab0.firebaseapp.com",
-    databaseURL: "https://l-tracker-65ab0.firebaseio.com",
-    projectId: "l-tracker-65ab0",
-    storageBucket: "l-tracker-65ab0.appspot.com",
-    messagingSenderId: "192587989604"
+    apiKey: "AIzaSyC02xVS1-0IjjirQABSh2VePdt-jK3hi8g",
+    authDomain: "l-tracker-android1.firebaseapp.com",
+    databaseURL: "https://l-tracker-android1.firebaseio.com",
+    projectId: "l-tracker-android1",
+    storageBucket: "l-tracker-android1.appspot.com",
+    messagingSenderId: "1023113478307"
   }
 };
